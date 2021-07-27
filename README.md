@@ -3,3 +3,5 @@
 - Strogonoff de carne
 
 - Pavê
+
+- Torta de frango
