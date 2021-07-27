@@ -1,4 +1,5 @@
-#Livro de receitas 
+# Livro de receitas  :man_cook:
 
-1. Strogonoff de carne
-2. Pavê
+- Strogonoff de carne
+
+- Pavê
